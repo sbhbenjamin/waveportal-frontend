@@ -1,5 +1,5 @@
 # Wave Portal 👋 
-
+The frontend of the dapp is available [here](https://github.com/sbhbenjamin/waveportal-backend)<br />
 A dapp that allows people to send me waves through the ethereum blockchain, and stand a chance to gain some ether. The frontend is built on React, and the smart contract is powered by Solidity. The dapp is live running the contract off the Rinkeby network.
 
 ### Prerequisites
