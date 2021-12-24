@@ -1,11 +1,19 @@
-# buildspace Wave Portal 👋 
+# Wave Portal 👋 
 
-### **Welcome!**
-To get started with this course, clone this repo and follow these commands:
+A dapp that allows people to send me waves through the ethereum blockchain, and stand a chance to gain some ether. The frontend is built on React, and the smart contract is powered by Solidity. The dapp is live running the contract off the Rinkeby network.
 
-1. Run `npm install` at the root of your directory
-2. Run `npm run start` to start the project
-3. Start coding!
+### Prerequisites
+Node.js v14+<br />
+MetaMask browser extension
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/courses/CO02cf0f1c-f996-4f50-9669-cf945ca3fb0b) and link your Discord account so you can get access to helpful channels and your instructor!
+### Getting started
+Install dependencies: 
+```
+npm install
+```
+
+Running the frontend
+```
+cd frontend
+npm start
+```
